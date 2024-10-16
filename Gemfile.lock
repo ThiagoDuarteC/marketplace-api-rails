@@ -213,7 +213,7 @@ GEM
     rswag-ui (2.14.0)
       actionpack (>= 5.2, < 8.0)
       railties (>= 5.2, < 8.0)
-    rubocop (1.66.1)
+    rubocop (1.67.0)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
       parallel (~> 1.10)
@@ -261,7 +261,7 @@ DEPENDENCIES
   rswag-api
   rswag-specs
   rswag-ui
-  rubocop (~> 1.66, >= 1.66.1)
+  rubocop (~> 1.67)
   simplecov (~> 0.22.0)
   tzinfo-data
 

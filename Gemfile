@@ -38,7 +38,7 @@ group :development, :test do
   gem "ffaker", "~> 2.21"
   gem "rspec-rails", "~> 7.0.0"
   gem "rswag-specs"
-  gem "rubocop", "~> 1.66", ">= 1.66.1", require: false
+  gem "rubocop", "~> 1.67", require: false
 end
 
 group :test do
