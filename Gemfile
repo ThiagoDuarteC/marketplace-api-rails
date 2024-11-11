@@ -36,7 +36,7 @@ group :development, :test do
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"
 
   gem "ffaker", "~> 2.21"
-  gem "rspec-rails", "~> 7.0.0"
+  gem "rspec-rails", "~> 7.1.0"
   gem "rswag-specs"
   gem "rubocop", "~> 1.66", ">= 1.66.1", require: false
 end
